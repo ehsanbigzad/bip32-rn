@@ -1,6 +1,6 @@
 {
   "name": "bip32-rn",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Bitcoin BIP32: Mnemonic code for generating deterministic keys in React Native",
   "main": "index.js",
   "scripts": {
